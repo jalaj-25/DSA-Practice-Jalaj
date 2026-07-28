@@ -2,9 +2,11 @@
 
 ## 📊 Stats
 
-- Total Days Practiced: **1**
-- Total Questions Solved: **1**
-- Last Updated: **2026-07-28 05:13**
+- 📅 Total Days Practiced: **1**
+- 📝 Total Questions Solved: **1**
+- 🔥 Current Streak: **1 Days**
+- 🏆 Longest Streak: **1 Days**
+- 🕒 Last Updated: **2026-07-28 05:26**
 
 ---
 
@@ -12,6 +14,6 @@
 
 | Date | Questions | Count |
 |------|-----------|------:|
-| 2026-07-28 | 001-two-sum | 1 |
+| 2026-07-28 | #1 Two Sum | 1 |
 
 ---
