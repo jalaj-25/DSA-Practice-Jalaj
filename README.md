@@ -2,9 +2,9 @@
 
 ## 📊 Stats
 
-- Total Days Practiced: **0**
-- Total Questions Solved: **0**
-- Last Updated: **2026-07-28 05:00**
+- Total Days Practiced: **1**
+- Total Questions Solved: **1**
+- Last Updated: **2026-07-28 05:13**
 
 ---
 
@@ -12,5 +12,6 @@
 
 | Date | Questions | Count |
 |------|-----------|------:|
+| 2026-07-28 | 001-two-sum | 1 |
 
 ---
