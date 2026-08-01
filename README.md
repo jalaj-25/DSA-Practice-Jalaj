@@ -2,11 +2,11 @@
 
 ## 📊 Stats
 
-- 📅 Total Days Practiced: **4**
-- 📝 Total Questions Solved: **17**
+- 📅 Total Days Practiced: **5**
+- 📝 Total Questions Solved: **24**
 - 🔥 Current Streak: **4 Days**
 - 🏆 Longest Streak: **4 Days**
-- 🕒 Last Updated: **2026-07-30 10:51**
+- 🕒 Last Updated: **2026-08-01 07:03**
 
 ---
 
@@ -18,6 +18,7 @@
 | 2026-07-29 | 7 |
 | 2026-07-28 | 1 |
 | 2026-07-27 | 2 |
+| 2023-07-31 | 7 |
 
 <details>
 <summary><strong>2026-07-30 (7 Problems)</strong></summary>
@@ -57,6 +58,19 @@
 
 - ✅ #3514 No_of_unique_xor_triplet_i
 - ✅ #3514 No_of_unique_xor_triplet_ii
+
+</details>
+
+<details>
+<summary><strong>2023-07-31 (7 Problems)</strong></summary>
+
+- ✅ #179 Larget Number
+- ✅ #3014 Min No Pushes To Type Word I
+- ✅ #3016 Min No Pushes To Type Word Ii
+- ✅ #324 Wiggle Sort Ii
+- ✅ #350 Intersection Of Two Arrays Ii
+- ✅ #378 Kth Largest Element In Sorted Matrix
+- ✅ #389 Find Diff
 
 </details>
 
