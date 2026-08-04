@@ -44,7 +44,7 @@
 - ✅ #59 Spiral Matrix
 - ✅ #64 Min Path Sum
 
-</details>
+</details> 
 
 <details>
 <summary><strong>2026-07-28 (1 Problem)</strong></summary>
