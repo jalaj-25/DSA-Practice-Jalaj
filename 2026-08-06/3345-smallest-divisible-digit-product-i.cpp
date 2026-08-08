@@ -1,0 +1,18 @@
+// 3345-smallest-divisible-digit-product-i.cpp;math;help
+
+int smallestNumber(int n, int t) {
+    while (true) {
+        int product = 1;
+        int x = n;
+
+        while (x > 0) {
+            product *= (x % 10);
+            x /= 10;
+        }
+
+        if (product % t == 0)
+            return n;
+
+        n++;
+    }
+}
