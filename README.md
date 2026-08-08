@@ -2,11 +2,11 @@
 
 ## 📊 Stats
 
-- 📅 Total Days Practiced: **8**
-- 📝 Total Questions Solved: **69**
-- 🔥 Current Streak: **8 Days**
-- 🏆 Longest Streak: **8 Days**
-- 🕒 Last Updated: **2026-08-04 03:27**
+- 📅 Total Days Practiced: **12**
+- 📝 Total Questions Solved: **101**
+- 🔥 Current Streak: **12 Days**
+- 🏆 Longest Streak: **12 Days**
+- 🕒 Last Updated: **2026-08-08 03:50**
 
 ---
 
@@ -14,6 +14,10 @@
 
 | Date | Count |
 |------|------:|
+| 2026-08-07 | 6 |
+| 2026-08-06 | 7 |
+| 2026-08-05 | 10 |
+| 2026-08-04 | 9 |
 | 2026-08-03 | 15 |
 | 2026-08-02 | 20 |
 | 2026-08-01 | 10 |
@@ -22,6 +26,62 @@
 | 2026-07-29 | 7 |
 | 2026-07-28 | 1 |
 | 2026-07-27 | 2 |
+
+<details>
+<summary><strong>2026-08-07 (6 Problems)</strong></summary>
+
+- ✅ #155 Min Stack
+- ✅ #20 Valid Parentheses
+- ✅ #225 Implement Stack Using Queues
+- ✅ #232 Implement Queue Using Stacks
+- ✅ #496 Next Greater Element I
+- ✅ #79 Daily Temperatures
+
+</details>
+
+<details>
+<summary><strong>2026-08-06 (7 Problems)</strong></summary>
+
+- ✅ #148 Sort List
+- ✅ #237 Delete Node In Linked List
+- ✅ #24 Swap Nodes In Pairs
+- ✅ #3345 Smallest Divisible Digit Product I
+- ✅ #67 Rotate List
+- ✅ #83 Remove Duplicates From Sorted List
+- ✅ #86 Partition List
+
+</details>
+
+<details>
+<summary><strong>2026-08-05 (10 Problems)</strong></summary>
+
+- ✅ #141 Linked List Cycle
+- ✅ #142 Linked List Cycle Ii
+- ✅ #160 Intersection Of 2 Ll
+- ✅ #19 Remove Nth Node From End Of List
+- ✅ #2 Add Two Numbers
+- ✅ #206 Reverse Linked List
+- ✅ #21 Merge 2 Sorted List
+- ✅ #23 Merger K Sorted Lists
+- ✅ #234 Palindromic Ll
+- ✅ #876 Middle Of Ll
+
+</details>
+
+<details>
+<summary><strong>2026-08-04 (9 Problems)</strong></summary>
+
+- ✅ #128 Longest Consecutive Seq
+- ✅ #151 Reverese Words In String
+- ✅ #202 Happy Number
+- ✅ #205 Isomorphic String
+- ✅ #410 Split Array Largest Sum
+- ✅ #486 Predict The Winner
+- ✅ #49 Group Anagram
+- ✅ #523 Continous Subaaray Sun
+- ✅ #560 Subarray Sum Equals K
+
+</details>
 
 <details>
 <summary><strong>2026-08-03 (15 Problems)</strong></summary>
@@ -123,7 +183,7 @@
 - ✅ #59 Spiral Matrix
 - ✅ #64 Min Path Sum
 
-</details> 
+</details>
 
 <details>
 <summary><strong>2026-07-28 (1 Problem)</strong></summary>
