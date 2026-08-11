@@ -2,11 +2,11 @@
 
 ## 📊 Stats
 
-- 📅 Total Days Practiced: **12**
-- 📝 Total Questions Solved: **101**
-- 🔥 Current Streak: **12 Days**
-- 🏆 Longest Streak: **12 Days**
-- 🕒 Last Updated: **2026-08-08 03:50**
+- 📅 Total Days Practiced: **13**
+- 📝 Total Questions Solved: **108**
+- 🔥 Current Streak: **13 Days**
+- 🏆 Longest Streak: **13 Days**
+- 🕒 Last Updated: **2026-08-11 05:59**
 
 ---
 
@@ -14,6 +14,7 @@
 
 | Date | Count |
 |------|------:|
+| 2026-08-08 | 7 |
 | 2026-08-07 | 6 |
 | 2026-08-06 | 7 |
 | 2026-08-05 | 10 |
@@ -28,6 +29,19 @@
 | 2026-07-27 | 2 |
 
 <details>
+<summary><strong>2026-08-08 (7 Problems)</strong></summary>
+
+- ✅ #155 Min Stack
+- ✅ #23 Merger K Sorted Lists
+- ✅ #3302 Find Lexo Smallest Valid Seq
+- ✅ #347 Top K Freq Elements
+- ✅ #503 Next Greater Element Ii
+- ✅ #61 Rotate List
+- ✅ #739 Daily Temperatures
+
+</details>
+
+<details>
 <summary><strong>2026-08-07 (6 Problems)</strong></summary>
 
 - ✅ #155 Min Stack
@@ -35,7 +49,7 @@
 - ✅ #225 Implement Stack Using Queues
 - ✅ #232 Implement Queue Using Stacks
 - ✅ #496 Next Greater Element I
-- ✅ #79 Daily Temperatures
+- ✅ #739 Daily Temperatures copy
 
 </details>
 
@@ -62,7 +76,7 @@
 - ✅ #2 Add Two Numbers
 - ✅ #206 Reverse Linked List
 - ✅ #21 Merge 2 Sorted List
-- ✅ #23 Merger K Sorted Lists
+- ✅ #23 Merger K Sorted Lists copy
 - ✅ #234 Palindromic Ll
 - ✅ #876 Middle Of Ll
 
