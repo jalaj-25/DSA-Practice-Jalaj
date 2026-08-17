@@ -2,11 +2,11 @@
 
 ## 📊 Stats
 
-- 📅 Total Days Practiced: **13**
-- 📝 Total Questions Solved: **108**
-- 🔥 Current Streak: **13 Days**
+- 📅 Total Days Practiced: **17**
+- 📝 Total Questions Solved: **136**
+- 🔥 Current Streak: **4 Days**
 - 🏆 Longest Streak: **13 Days**
-- 🕒 Last Updated: **2026-08-11 05:59**
+- 🕒 Last Updated: **2026-08-17 11:29**
 
 ---
 
@@ -14,6 +14,10 @@
 
 | Date | Count |
 |------|------:|
+| 2026-08-13 | 6 |
+| 2026-08-12 | 7 |
+| 2026-08-11 | 7 |
+| 2026-08-10 | 8 |
 | 2026-08-08 | 7 |
 | 2026-08-07 | 6 |
 | 2026-08-06 | 7 |
@@ -27,6 +31,58 @@
 | 2026-07-29 | 7 |
 | 2026-07-28 | 1 |
 | 2026-07-27 | 2 |
+
+<details>
+<summary><strong>2026-08-13 (6 Problems)</strong></summary>
+
+- ✅ #141 Ll Cycle
+- ✅ #16 Interaction Of 2 Ll
+- ✅ #206 Reverse Ll
+- ✅ #3731 Find Missing Elements
+- ✅ #817 Ll Components
+- ✅ #876 Middle Of Ll
+
+</details>
+
+<details>
+<summary><strong>2026-08-12 (7 Problems)</strong></summary>
+
+- ✅ #134 Gas Statio
+- ✅ #136 Single Number
+- ✅ #137 Single Number Ii
+- ✅ #139 Word Break
+- ✅ #152 Max Product Subarray
+- ✅ #153 Find Min Rotated Sorted Array
+- ✅ #2958 Length Of Longest Subaaray With At Most K Freq
+
+</details>
+
+<details>
+<summary><strong>2026-08-11 (7 Problems)</strong></summary>
+
+- ✅ #1309 Dcrypt String From Alphabet To Inte
+- ✅ #2996 Smallest Missing Integer Greater Than Sequential Prefix Sum
+- ✅ #3370 Smallest Number With All Set Bits
+- ✅ #3838 Weighted Word Mapping
+- ✅ #3950 Exactly One Consecutive Set Bits Pair
+- ✅ #645 Set Mismatch
+- ✅ #73 Set Matrix Zeroes
+
+</details>
+
+<details>
+<summary><strong>2026-08-10 (8 Problems)</strong></summary>
+
+- ✅ #1 Two Sum
+- ✅ #11 Container With Most Water
+- ✅ #14 Longest Common Prefix
+- ✅ #18 4sum
+- ✅ #26 Remove Duplicates From Sorted Array
+- ✅ #33 Search In Rotated Sorted Aarray
+- ✅ #54 Spiral Matrix
+- ✅ #59 Spiral Matrix Ii
+
+</details>
 
 <details>
 <summary><strong>2026-08-08 (7 Problems)</strong></summary>
