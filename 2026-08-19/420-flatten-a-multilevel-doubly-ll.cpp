@@ -1,4 +1,4 @@
-// 420-flatten-a-multilevel-doubly-ll.cpp-ll-help-leetcode
+// 430-flatten-a-multilevel-doubly-ll.cpp-ll-help-leetcode
 
 #include<iostream>
 #include<vector>
@@ -40,7 +40,7 @@ class Solution {
                     next->prev = curr;
                 }
             }
-            
+
             curr = curr->next;
         }
 
