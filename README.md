@@ -2,11 +2,11 @@
 
 ## 📊 Stats
 
-- 📅 Total Days Practiced: **17**
-- 📝 Total Questions Solved: **136**
-- 🔥 Current Streak: **4 Days**
+- 📅 Total Days Practiced: **25**
+- 📝 Total Questions Solved: **193**
+- 🔥 Current Streak: **8 Days**
 - 🏆 Longest Streak: **13 Days**
-- 🕒 Last Updated: **2026-08-17 11:29**
+- 🕒 Last Updated: **2026-08-25 06:32**
 
 ---
 
@@ -14,6 +14,14 @@
 
 | Date | Count |
 |------|------:|
+| 2026-08-24 | 7 |
+| 2026-08-23 | 7 |
+| 2026-08-22 | 7 |
+| 2026-08-21 | 7 |
+| 2026-08-20 | 7 |
+| 2026-08-19 | 7 |
+| 2026-08-18 | 7 |
+| 2026-08-17 | 8 |
 | 2026-08-13 | 6 |
 | 2026-08-12 | 7 |
 | 2026-08-11 | 7 |
@@ -31,6 +39,111 @@
 | 2026-07-29 | 7 |
 | 2026-07-28 | 1 |
 | 2026-07-27 | 2 |
+
+<details>
+<summary><strong>2026-08-24 (7 Problems)</strong></summary>
+
+- ✅ #168 Excel Sheet Col Tile
+- ✅ #171 Excel Sheeet Col Num
+- ✅ #198 House Robber
+- ✅ #198 House Robber I
+- ✅ #213 House Robber Ii
+- ✅ #2181 Merge Nodes In Between Zeroes
+- ✅ #56 Merge Intervals
+
+</details>
+
+<details>
+<summary><strong>2026-08-23 (7 Problems)</strong></summary>
+
+- ✅ #1047 Remove All Adj Dup In String
+- ✅ #1927 Sum Game
+- ✅ #221 Maximal Rectangle
+- ✅ #566 Reshape The Matrix
+- ✅ #63 Unique Paths Ii
+- ✅ #72 Edit Distance
+- ✅ #85 Max Rectangle
+
+</details>
+
+<details>
+<summary><strong>2026-08-22 (7 Problems)</strong></summary>
+
+- ✅ #1019 Next Greater Node In Ll
+- ✅ #1047 Remove All Adj Dupl In String
+- ✅ #1385 Find Dist Value Between Two Array
+- ✅ #143 Reorder List
+- ✅ #3622 Check Divisibility By Digit Sum And Product
+- ✅ #680 Valid Palindrome Ii
+- ✅ #85 Max Rec
+
+</details>
+
+<details>
+<summary><strong>2026-08-21 (7 Problems)</strong></summary>
+
+- ✅ #20 Valid Parentheses
+- ✅ #24 Swap Nodes In Pairs
+- ✅ #3471 Find Largest Almost Missing Int
+- ✅ #455 Assign Cookies
+- ✅ #62 Unique Paths
+- ✅ #63 Unique Paths Ii
+- ✅ #74 Search 2d Matrix
+
+</details>
+
+<details>
+<summary><strong>2026-08-20 (7 Problems)</strong></summary>
+
+- ✅ #16 3sum Closest
+- ✅ #30 Count And Say
+- ✅ #3069 Distribute Elements Into Two Arrays I
+- ✅ #392 Is Subsequence
+- ✅ #441 Arranging Coins
+- ✅ #80 Remove Duplicate From Sorted Array Ii
+- ✅ #82 Remove Duplicate From Sorted List Ii
+
+</details>
+
+<details>
+<summary><strong>2026-08-19 (7 Problems)</strong></summary>
+
+- ✅ #11 Container With Most Water
+- ✅ #22 Genrate Parentheses
+- ✅ #414 Third Max Number
+- ✅ #42 Trapping Rain Water
+- ✅ #430 Flatten A Multilevel Doubly Ll
+- ✅ #457 Circular Array Loop
+- ✅ #561 Array Patition
+
+</details>
+
+<details>
+<summary><strong>2026-08-18 (7 Problems)</strong></summary>
+
+- ✅ #121 Best Tym To But Sell Stock
+- ✅ #122 Best Tym To But Sell Stock Ii
+- ✅ #123 Best Tym To But Sell Stock Iii
+- ✅ #206 Reverse Ll
+- ✅ #415 Add Strings
+- ✅ #876 Middle Of Ll
+- ✅ #92 Reverse Ll Ii
+
+</details>
+
+<details>
+<summary><strong>2026-08-17 (8 Problems)</strong></summary>
+
+- ✅ #3090 Max Len Substring With Two Occ
+- ✅ #463 Island Perimeter
+- ✅ #48 Rotate Image
+- ✅ #56 Merge Intervals
+- ✅ #57 Insert Intervel
+- ✅ #66 Plus One
+- ✅ #67 Add Binary
+- ✅ #69 Sqrt X
+
+</details>
 
 <details>
 <summary><strong>2026-08-13 (6 Problems)</strong></summary>
