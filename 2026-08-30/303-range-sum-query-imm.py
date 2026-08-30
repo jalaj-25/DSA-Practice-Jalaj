@@ -1,0 +1,21 @@
+# 303-range-sum-query-imm.py;prefix-sum;leetcode
+
+class NumArray(object):
+
+    def __init__(self, nums):
+        """
+        :type nums: List[int]
+        """
+        # prefix[i] stores the sum of the first i elements
+        self.prefix = [0]
+
+        for num in nums:
+            self.prefix.append(self.prefix[-1] + num)
+
+    def sumRange(self, left, right):
+        """
+        :type left: int
+        :type right: int
+        :rtype: int
+        """
+        return self.prefix[right + 1] - self.prefix[left]
