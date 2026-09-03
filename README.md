@@ -2,11 +2,11 @@
 
 ## 📊 Stats
 
-- 📅 Total Days Practiced: **25**
-- 📝 Total Questions Solved: **193**
-- 🔥 Current Streak: **8 Days**
+- 📅 Total Days Practiced: **30**
+- 📝 Total Questions Solved: **229**
+- 🔥 Current Streak: **2 Days**
 - 🏆 Longest Streak: **13 Days**
-- 🕒 Last Updated: **2026-08-25 06:32**
+- 🕒 Last Updated: **2026-09-03 06:22**
 
 ---
 
@@ -14,6 +14,11 @@
 
 | Date | Count |
 |------|------:|
+| 2026-08-30 | 7 |
+| 2026-08-29 | 7 |
+| 2026-08-27 | 8 |
+| 2026-08-26 | 7 |
+| 2026-08-25 | 7 |
 | 2026-08-24 | 7 |
 | 2026-08-23 | 7 |
 | 2026-08-22 | 7 |
@@ -39,6 +44,72 @@
 | 2026-07-29 | 7 |
 | 2026-07-28 | 1 |
 | 2026-07-27 | 2 |
+
+<details>
+<summary><strong>2026-08-30 (7 Problems)</strong></summary>
+
+- ✅ #209 Max Size Subarray Sum
+- ✅ #223 Rectangle Area
+- ✅ #238 Product Of Array Except Self
+- ✅ #303 Range Sum Query Imm
+- ✅ #560 Subarray Sum Equal K
+- ✅ #661 Img Smoother
+- ✅ #9 Palindrom Num
+
+</details>
+
+<details>
+<summary><strong>2026-08-29 (7 Problems)</strong></summary>
+
+- ✅ #168 Excel Sheet Col Title
+- ✅ #234 Palindrome Ll
+- ✅ #240 Seach 2d Matrix
+- ✅ #258 Add Digits
+- ✅ #278 First Bad Version
+- ✅ #378 Kth Smallest In Sorted Matrix
+- ✅ #541 Reverse String Ii
+
+</details>
+
+<details>
+<summary><strong>2026-08-27 (8 Problems)</strong></summary>
+
+- ✅ #121 Best Tym To Buy Sell Stock I
+- ✅ #122 Best Tym To Buy Sell Stock Ii
+- ✅ #123 Best Tym To Buy Sell Stock Iii
+- ✅ #18 4sum
+- ✅ #342 Wiggle Sort Ii
+- ✅ #414 Third Max Num
+- ✅ #561 Array Partition
+- ✅ #75 Sort Colors
+
+</details>
+
+<details>
+<summary><strong>2026-08-26 (7 Problems)</strong></summary>
+
+- ✅ #114 Flatten Binary Tree To Ll
+- ✅ #162 Find Peak Ele
+- ✅ #234 Palindrom Ll
+- ✅ #239 Sliding Window Max
+- ✅ #240 Search 2d Matrix
+- ✅ #2904 Shortest Lex Smallest Beautiful String
+- ✅ #85 Max Rectangle
+
+</details>
+
+<details>
+<summary><strong>2026-08-25 (7 Problems)</strong></summary>
+
+- ✅ #10 Regular Expression Matching
+- ✅ #118 Pascals Triangle
+- ✅ #119 Pascals Triangle Ii
+- ✅ #27 Remove Element
+- ✅ #3718 Smallest Missing Multiple Of K
+- ✅ #65 Valid Number
+- ✅ 154Min In Rotated Sorted Array Ii
+
+</details>
 
 <details>
 <summary><strong>2026-08-24 (7 Problems)</strong></summary>
