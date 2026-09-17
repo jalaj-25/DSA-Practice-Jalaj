@@ -2,11 +2,11 @@
 
 ## 📊 Stats
 
-- 📅 Total Days Practiced: **42**
-- 📝 Total Questions Solved: **311**
-- 🔥 Current Streak: **4 Days**
+- 📅 Total Days Practiced: **43**
+- 📝 Total Questions Solved: **318**
+- 🔥 Current Streak: **5 Days**
 - 🏆 Longest Streak: **13 Days**
-- 🕒 Last Updated: **2026-09-15 06:35**
+- 🕒 Last Updated: **2026-09-16 07:35**
 
 ---
 
@@ -17,7 +17,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   | [**1**](./September%202026/2026-09-01/)<br>`7 Qs` | [**2**](./September%202026/2026-09-02/)<br>`7 Qs` | [**3**](./September%202026/2026-09-03/)<br>`7 Qs` | [**4**](./September%202026/2026-09-04/)<br>`8 Qs` | [**5**](./September%202026/2026-09-05/)<br>`7 Qs` | [**6**](./September%202026/2026-09-06/)<br>`7 Qs` |
 | [**7**](./September%202026/2026-09-07/)<br>`7 Qs` | [**8**](./September%202026/2026-09-08/)<br>`9 Qs` | 9 | [**10**](./September%202026/2026-09-10/)<br>`7 Qs` | [**11**](./September%202026/2026-09-11/)<br>`7 Qs` | [**12**](./September%202026/2026-09-12/)<br>`4 Qs` | [**13**](./September%202026/2026-09-13/)<br>`7 Qs` |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| [**14**](./September%202026/2026-09-14/)<br>`7 Qs` | 15 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 |   |   |   |   |
 
